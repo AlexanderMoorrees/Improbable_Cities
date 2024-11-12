@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Improbable Cities-0.1.0";
 const contentToCache = [
-    "Build/AddressablesTest.loader.js",
-    "Build/AddressablesTest.framework.js",
-    "Build/AddressablesTest.data",
-    "Build/AddressablesTest.wasm",
+    "Build/AddressableTest2.loader.js",
+    "Build/AddressableTest2.framework.js",
+    "Build/AddressableTest2.data",
+    "Build/AddressableTest2.wasm",
     "TemplateData/style.css"
 
 ];
